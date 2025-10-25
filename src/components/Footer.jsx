@@ -93,24 +93,24 @@ export default function Footer() {
                 href="mailto:info@UrbanFungi.com"
                 className="hover:text-[#f3cc00] transition-colors"
               >
-                info@UrbanFungi.com
+                info@Urbanfungi.com
               </a>
             </li>
             <li className="flex items-center gap-2">
               <Twitter size={18} className="text-[#95e500]" />
               <a
-                href="https://twitter.com/UrbanFungi"
+                href="https://twitter.com/Urbanfungi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#f3cc00] transition-colors"
               >
-                @UrbanFungi
+                @Urbanfungi
               </a>
             </li>
             <li className="flex items-center gap-2">
               <Linkedin size={18} className="text-[#95e500]" />
               <a
-                href="https://linkedin.com/company/UrbanFungi"
+                href="https://linkedin.com/company/Urbanfungi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#f3cc00] transition-colors"
@@ -121,7 +121,7 @@ export default function Footer() {
             <li className="flex items-center gap-2">
               <Instagram size={18} className="text-[#95e500]" />
               <a
-                href="https://instagram.com/UrbanFungi"
+                href="https://instagram.com/Urbanfungi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#f3cc00] transition-colors"
