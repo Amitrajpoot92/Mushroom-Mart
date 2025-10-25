@@ -75,7 +75,7 @@ const NavbarMain = () => {
           to="/"
           className="text-xl md:text-2xl font-medium tracking-wider uppercase"
         >
-          MushroomMart
+          UrbanFungi
         </Link>
 
         {/* Hamburger (mobile) */}

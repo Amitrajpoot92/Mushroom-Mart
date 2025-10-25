@@ -180,7 +180,7 @@ const Home = () => {
         {/* Left Text */}
         <div className="flex-1 text-gray-900 min-w-[300px]">
           <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-4">
-            MushroomMart <br />
+            UrbanFungi <br />
             <span className="bg-gradient-to-r from-green-600 via-lime-500 to-yellow-500 bg-clip-text text-transparent font-extrabold">
               Buy, Learn & Grow with
             </span>{" "}

@@ -21,7 +21,7 @@ export default function Footer() {
         {/* Brand & Mission */}
         <div className="flex flex-col gap-4">
           <h2 className="text-3xl font-extrabold bg-gradient-to-r from-[#95e500] via-[#f3cc00] to-white bg-clip-text text-transparent">
-            MushroomMart
+            UrbanFungi
           </h2>
           <p className="text-gray-700 text-sm leading-relaxed">
             🍄 Fresh, organic, and exotic mushrooms delivered with care.
@@ -90,43 +90,43 @@ export default function Footer() {
             <li className="flex items-center gap-2">
               <Mail size={18} className="text-[#95e500]" />
               <a
-                href="mailto:info@mushroommart.com"
+                href="mailto:info@UrbanFungi.com"
                 className="hover:text-[#f3cc00] transition-colors"
               >
-                info@mushroommart.com
+                info@UrbanFungi.com
               </a>
             </li>
             <li className="flex items-center gap-2">
               <Twitter size={18} className="text-[#95e500]" />
               <a
-                href="https://twitter.com/mushroommart"
+                href="https://twitter.com/UrbanFungi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#f3cc00] transition-colors"
               >
-                @MushroomMart
+                @UrbanFungi
               </a>
             </li>
             <li className="flex items-center gap-2">
               <Linkedin size={18} className="text-[#95e500]" />
               <a
-                href="https://linkedin.com/company/mushroommart"
+                href="https://linkedin.com/company/UrbanFungi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#f3cc00] transition-colors"
               >
-                MushroomMart
+                UrbanFungi
               </a>
             </li>
             <li className="flex items-center gap-2">
               <Instagram size={18} className="text-[#95e500]" />
               <a
-                href="https://instagram.com/mushroommart"
+                href="https://instagram.com/UrbanFungi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#f3cc00] transition-colors"
               >
-                @mushroommart
+                @UrbanFungi
               </a>
             </li>
           </ul>
@@ -138,7 +138,7 @@ export default function Footer() {
 
       {/* Bottom Section */}
       <div className="w-full text-center text-gray-600 text-sm py-6">
-        &copy; {new Date().getFullYear()} MushroomMart. All rights reserved.
+        &copy; {new Date().getFullYear()} UrbanFungi. All rights reserved.
       </div>
     </footer>
   );
